@@ -12,6 +12,6 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/bherbruck/wingpy',
-    packages=['dict2class'],
+    packages=['wingpy'],
     python_requires='>=3.6',
 )
